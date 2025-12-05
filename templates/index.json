@@ -495,8 +495,8 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce que vous livrez à l’étranger ?",
+            "content": "<p>Oui.<br/>Nous livrons dans la plupart des pays francophones et européens.<br/>Les frais et délais peuvent varier selon la destination.</p>"
           }
         }
       },

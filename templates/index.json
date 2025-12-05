@@ -200,6 +200,7 @@
         "item_MGxAF9": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 6-6.mp4",
             "column_size": "3",
             "title": "Élise P.",
             "heading_tag": "h4",
@@ -212,6 +213,7 @@
         "item_Dda3GK": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 5-5.mp4",
             "column_size": "3",
             "title": "Emma R.",
             "heading_tag": "h4",

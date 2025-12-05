@@ -197,6 +197,19 @@
             "link_style": "link"
           }
         },
+        "item_r9A3Mq": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 6-6.mp4",
+            "column_size": "3",
+            "title": "Élise P.",
+            "heading_tag": "h4",
+            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_UhxweN": {
           "type": "item",
           "settings": {
@@ -210,14 +223,14 @@
             "link_style": "link"
           }
         },
-        "item_r9A3Mq": {
+        "item_VhjwDa": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/video 6-6.mp4",
+            "video": "shopify://files/videos/video 5-5.mp4",
             "column_size": "3",
-            "title": "Élise P.",
+            "title": "Emma R.",
             "heading_tag": "h4",
-            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
+            "content": "<p>Au bout de quelques jours, trois personnes m’ont demandé si j’avais perdu du poids ! Mon visage paraît vraiment plus affiné. Je reviens en acheter pour ma famille.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -248,28 +261,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_VhjwDa": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 5-5.mp4",
-            "column_size": "3",
-            "title": "Emma R.",
-            "heading_tag": "h4",
-            "content": "<p>Au bout de quelques jours, trois personnes m’ont demandé si j’avais perdu du poids ! Mon visage paraît vraiment plus affiné. Je reviens en acheter pour ma famille.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_FrhrK4",
-        "item_UhxweN",
         "item_r9A3Mq",
+        "item_UhxweN",
+        "item_VhjwDa",
         "item_MmmnjV",
-        "item_b7q6Jq",
-        "item_VhjwDa"
+        "item_b7q6Jq"
       ],
       "name": "Multi-column",
       "settings": {

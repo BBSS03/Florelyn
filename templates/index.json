@@ -97,6 +97,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_9YRTEB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_366YbN": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Florelyn ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_366YbN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -153,6 +179,7 @@
   "order": [
     "image_with_text_overlay_8CkjDB",
     "logo_list_3xJjfU",
+    "rich_text_9YRTEB",
     "faq"
   ]
 }

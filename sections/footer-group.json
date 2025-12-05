@@ -46,11 +46,11 @@
             "icon": "picto-customer-support",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "#e7c7ac",
             "icon_color": "#5a4332",
             "title": "Service client 7J/7",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": ""
           }
         },
         "payment": {
@@ -59,11 +59,11 @@
             "icon": "picto-lock",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#e7c7ac",
+            "icon_color": "#5a4332",
+            "title": "Paiement sécurisé",
+            "content": ""
           }
         }
       },

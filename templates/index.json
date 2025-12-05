@@ -239,6 +239,7 @@
         "item_b7q6Jq": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 1-1.mp4",
             "column_size": "3",
             "title": "Laura Q.",
             "heading_tag": "h4",

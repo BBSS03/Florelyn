@@ -351,6 +351,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_qtgjhJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Merry_Christmas_32896f51-a7e2-4846-973d-89cfc7a816c5.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_CnGpxD": {
           "type": "buy_buttons",
           "settings": {
@@ -360,14 +368,6 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "image_qtgjhJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Merry_Christmas_32896f51-a7e2-4846-973d-89cfc7a816c5.png",
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "pickup_availability_4REWnK": {
@@ -386,8 +386,8 @@
         "description_zahxHm",
         "variant_picker_EeQXab",
         "quantity_selector_ehDcED",
-        "buy_buttons_CnGpxD",
         "image_qtgjhJ",
+        "buy_buttons_CnGpxD",
         "pickup_availability_4REWnK"
       ],
       "name": "Featured product",

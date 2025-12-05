@@ -184,6 +184,18 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
+        "item_9tcCmR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Justine O.",
+            "heading_tag": "h4",
+            "content": "<p>Je ne m’attendais pas à ça… c’est d’un relaxant ! Toute la tension de mon visage disparaît. Ma peau paraît liftée et plus ferme après chaque massage. Je l’utilise tous les soirs, c’est devenu indispensable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_MGxAF9": {
           "type": "item",
           "settings": {
@@ -247,6 +259,7 @@
         }
       },
       "block_order": [
+        "item_9tcCmR",
         "item_MGxAF9",
         "item_Dda3GK",
         "item_MmmnjV",

@@ -165,6 +165,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_ARfdiL": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/3_1684900f-1920-4a44-85e8-30f1c171be40.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -224,6 +240,7 @@
     "rich_text_9YRTEB",
     "image_with_text_overlay_TwLqw9",
     "rich_text_LqTxEQ",
+    "image_with_text_overlay_ARfdiL",
     "faq"
   ]
 }

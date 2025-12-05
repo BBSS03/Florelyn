@@ -495,8 +495,8 @@
         "item_AfnnLP": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "La brosse doit-elle être utilisée avec des crèmes ou huiles ?",
+            "content": "<p>Non.<br/>Elle est spécialement conçue pour fonctionner <strong>sur peau propre et sèche</strong>, sans crème ni huile.<br/>C’est l’un de ses plus grands avantages.</p>"
           }
         },
         "166442457738b23caf-0": {

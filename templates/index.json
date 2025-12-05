@@ -184,58 +184,6 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
-        "item_b7q6Jq": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 1-1.mp4",
-            "column_size": "3",
-            "title": "Laura Q.",
-            "heading_tag": "h4",
-            "content": "<p>Je l’utilise chaque matin et c’est devenu mon petit rituel bien-être. Elle dégonfle mon visage en quelques minutes et donne vraiment un boost de circulation. Le massage est hyper agréable.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MGxAF9": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 6-6.mp4",
-            "column_size": "3",
-            "title": "Élise P.",
-            "heading_tag": "h4",
-            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VhjwDa": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 5-5 .mp4",
-            "column_size": "3",
-            "title": "Sarah H.",
-            "heading_tag": "h4",
-            "content": "<p>Très douce mais efficace ! Elle réduit les gonflements autour de la mâchoire et des joues, et donne un effet sculpté en 2–3 minutes. Une super addition à ma routine beauté.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Dda3GK": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 5-5.mp4",
-            "column_size": "3",
-            "title": "Emma R.",
-            "heading_tag": "h4",
-            "content": "<p>Au bout de quelques jours, trois personnes m’ont demandé si j’avais perdu du poids ! Mon visage paraît vraiment plus affiné. Je reviens en acheter pour ma famille.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_MmmnjV": {
           "type": "item",
           "settings": {
@@ -249,14 +197,27 @@
             "link_style": "link"
           }
         },
-        "item_9tcCmR": {
+        "item_b7q6Jq": {
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/video 3.mp4",
             "column_size": "3",
-            "title": "Justine O.",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Je ne m’attendais pas à ça… c’est d’un relaxant ! Toute la tension de mon visage disparaît. Ma peau paraît liftée et plus ferme après chaque massage. Je l’utilise tous les soirs, c’est devenu indispensable.</p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VhjwDa": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 5-5.mp4",
+            "column_size": "3",
+            "title": "Emma R.",
+            "heading_tag": "h4",
+            "content": "<p>Au bout de quelques jours, trois personnes m’ont demandé si j’avais perdu du poids ! Mon visage paraît vraiment plus affiné. Je reviens en acheter pour ma famille.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -264,12 +225,9 @@
         }
       },
       "block_order": [
-        "item_b7q6Jq",
-        "item_MGxAF9",
-        "item_VhjwDa",
-        "item_Dda3GK",
         "item_MmmnjV",
-        "item_9tcCmR"
+        "item_b7q6Jq",
+        "item_VhjwDa"
       ],
       "name": "Multi-column",
       "settings": {

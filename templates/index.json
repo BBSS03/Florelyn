@@ -421,14 +421,6 @@
     "tabs_kbKWcA": {
       "type": "tabs",
       "blocks": {
-        "tab_d3xGei": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre service client est disponible <strong>7j/7</strong> pour vous accompagner.<br/>Nous répondons à vos demandes <strong>du lundi au vendredi de 9h à 18h</strong>, et <strong>le week-end de 10h à 15h</strong>.</p>",
-            "page": ""
-          }
-        },
         "tab_JbzKiV": {
           "type": "tab",
           "settings": {
@@ -440,7 +432,7 @@
         "tab_kjjFxg": {
           "type": "tab",
           "settings": {
-            "title": "Essayez la Brosse Éclat Florelyn pendant 30 jours.",
+            "title": "Essayez la Brosse Éclat Florelyn pendant 30 jours gratuitement.",
             "content": "<p><br/>Si vous n’êtes pas entièrement satisfaite de votre Brosse Éclat Florelyn, vous pouvez la retourner et recevoir un remboursement intégral.</p>",
             "page": ""
           }
@@ -452,13 +444,21 @@
             "content": "<p>La livraison est <strong>gratuite à domicile</strong>, partout en France. Le délai est généralement compris entre <strong>6 et 12 jours</strong>, selon le volume des commandes.</p>",
             "page": ""
           }
+        },
+        "tab_d3xGei": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible <strong>7j/7</strong> pour vous accompagner.<br/>Nous répondons à vos demandes <strong>du lundi au vendredi de 9h à 18h</strong>, et <strong>le week-end de 10h à 15h</strong>.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "tab_d3xGei",
         "tab_JbzKiV",
         "tab_kjjFxg",
-        "tab_zwWUwW"
+        "tab_zwWUwW",
+        "tab_d3xGei"
       ],
       "name": "Tabs",
       "settings": {

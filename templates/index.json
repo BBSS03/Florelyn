@@ -421,6 +421,14 @@
     "tabs_kbKWcA": {
       "type": "tabs",
       "blocks": {
+        "tab_d3xGei": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible <strong>7j/7</strong> pour vous accompagner.<br/>Nous répondons à vos demandes <strong>du lundi au vendredi de 9h à 18h</strong>, et <strong>le week-end de 10h à 15h</strong>.</p>",
+            "page": ""
+          }
+        },
         "tab_JbzKiV": {
           "type": "tab",
           "settings": {
@@ -440,13 +448,14 @@
         "tab_zwWUwW": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>La livraison est <strong>gratuite à domicile</strong>, partout en France. Le délai est généralement compris entre <strong>6 et 12 jours</strong>, selon le volume des commandes.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "tab_d3xGei",
         "tab_JbzKiV",
         "tab_kjjFxg",
         "tab_zwWUwW"
@@ -459,7 +468,7 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "",
+        "background": "#faf7f3",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",

@@ -187,6 +187,7 @@
         "item_r9A3Mq": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 6-6.mp4",
             "column_size": "3",
             "title": "Élise P.",
             "heading_tag": "h4",

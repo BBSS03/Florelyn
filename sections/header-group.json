@@ -17,7 +17,7 @@
         "message_bqHbEq": {
           "type": "message",
           "settings": {
-            "text": "La livraison gratuite",
+            "text": "Livraison gratuite à domicile",
             "url": ""
           }
         },
@@ -56,9 +56,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#e7c7ac",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#5a4332"
       }
     },
     "header": {

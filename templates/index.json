@@ -184,6 +184,18 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
+        "item_Dda3GK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Emma R.",
+            "heading_tag": "h4",
+            "content": "<p>Au bout de quelques jours, trois personnes m’ont demandé si j’avais perdu du poids ! Mon visage paraît vraiment plus affiné. Je reviens en acheter pour ma famille.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_MmmnjV": {
           "type": "item",
           "settings": {
@@ -223,6 +235,7 @@
         }
       },
       "block_order": [
+        "item_Dda3GK",
         "item_MmmnjV",
         "item_b7q6Jq",
         "item_VhjwDa"

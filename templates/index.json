@@ -181,6 +181,66 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_WfQwwb": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MmmnjV": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 2.mp4",
+            "column_size": "3",
+            "title": "Julie A.",
+            "heading_tag": "h4",
+            "content": "<p>J’adore la Brosse Éclat FLORELYN ! Les poils sont doux mais massent vraiment bien. En quelques jours seulement, j’ai vu mes poches sous les yeux et ma mâchoire beaucoup moins gonflées.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_b7q6Jq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VhjwDa": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MmmnjV",
+        "item_b7q6Jq",
+        "item_VhjwDa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -241,6 +301,7 @@
     "image_with_text_overlay_TwLqw9",
     "rich_text_LqTxEQ",
     "image_with_text_overlay_ARfdiL",
+    "multi_column_WfQwwb",
     "faq"
   ]
 }

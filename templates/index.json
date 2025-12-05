@@ -418,6 +418,54 @@
         "input_text_color": ""
       }
     },
+    "tabs_kbKWcA": {
+      "type": "tabs",
+      "blocks": {
+        "tab_JbzKiV": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment utiliser votre Brosse Éclat Florelyn ?",
+            "content": "<p>Utilisez-la sur une <strong>peau propre et parfaitement sèche</strong>, sans huile ni crème.<br/><br/>Commencez par de <strong>lents mouvements vers le bas</strong>, du visage vers le cou, pour activer le drainage lymphatique.<br/><br/>Ensuite, réalisez des <strong>mouvements doux vers le haut</strong> afin de lifter et sculpter les contours du visage.</p><p>⏱️ <strong>2 à 3 minutes par jour suffisent</strong> pour constater des résultats visibles.<br/><br/>🌿 <strong>Bonus :</strong> utilisez-la le matin pour réveiller votre peau, ou le soir pour relâcher les tensions du visage.</p>",
+            "page": ""
+          }
+        },
+        "tab_kjjFxg": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez la Brosse Éclat Florelyn pendant 30 jours.",
+            "content": "<p><br/>Si vous n’êtes pas entièrement satisfaite de votre Brosse Éclat Florelyn, vous pouvez la retourner et recevoir un remboursement intégral.</p>",
+            "page": ""
+          }
+        },
+        "tab_zwWUwW": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_JbzKiV",
+        "tab_kjjFxg",
+        "tab_zwWUwW"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -480,6 +528,7 @@
     "image_with_text_overlay_ARfdiL",
     "multi_column_WfQwwb",
     "featured_product_AQ3cxF",
+    "tabs_kbKWcA",
     "faq"
   ]
 }

@@ -108,9 +108,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Nous contacter :",
+            "content": "<p><strong>Service client: </strong>contact@florelyn@gmail.com</p><p><strong>Horaire : </strong><br/>lundi au vendredi de 9h à 18h, et le week-end de 10h à 15h.</p>",
+            "enable_follow_on_shop": false
           }
         }
       },

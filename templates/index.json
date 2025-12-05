@@ -252,6 +252,7 @@
         "item_VhjwDa": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 5-5 .mp4",
             "column_size": "3",
             "title": "Sarah H.",
             "heading_tag": "h4",

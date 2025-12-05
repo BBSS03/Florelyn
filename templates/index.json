@@ -184,6 +184,18 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
+        "item_MGxAF9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Élise P.",
+            "heading_tag": "h4",
+            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_Dda3GK": {
           "type": "item",
           "settings": {
@@ -235,6 +247,7 @@
         }
       },
       "block_order": [
+        "item_MGxAF9",
         "item_Dda3GK",
         "item_MmmnjV",
         "item_b7q6Jq",

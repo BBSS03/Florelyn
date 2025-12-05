@@ -187,6 +187,7 @@
         "item_9tcCmR": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video 3.mp4",
             "column_size": "3",
             "title": "Justine O.",
             "heading_tag": "h4",

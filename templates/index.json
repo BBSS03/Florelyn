@@ -184,6 +184,19 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
+        "item_UhxweN": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 5-5 .mp4",
+            "column_size": "3",
+            "title": "Sarah H.",
+            "heading_tag": "h4",
+            "content": "<p>Très douce mais efficace ! Elle réduit les gonflements autour de la mâchoire et des joues, et donne un effet sculpté en 2–3 minutes. Une super addition à ma routine beauté.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_r9A3Mq": {
           "type": "item",
           "settings": {
@@ -238,6 +251,7 @@
         }
       },
       "block_order": [
+        "item_UhxweN",
         "item_r9A3Mq",
         "item_MmmnjV",
         "item_b7q6Jq",

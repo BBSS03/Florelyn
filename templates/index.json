@@ -184,6 +184,19 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
+        "item_FrhrK4": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 1-1.mp4",
+            "column_size": "3",
+            "title": "Laura Q.",
+            "heading_tag": "h4",
+            "content": "<p>Je l’utilise chaque matin et c’est devenu mon petit rituel bien-être. Elle dégonfle mon visage en quelques minutes et donne vraiment un boost de circulation. Le massage est hyper agréable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_UhxweN": {
           "type": "item",
           "settings": {
@@ -251,6 +264,7 @@
         }
       },
       "block_order": [
+        "item_FrhrK4",
         "item_UhxweN",
         "item_r9A3Mq",
         "item_MmmnjV",

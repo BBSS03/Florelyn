@@ -324,12 +324,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating_mN8UmV": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_im6yh3": {
           "type": "separator",
           "settings": {}
@@ -368,6 +362,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_qtgjhJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/offre_cadeau.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_4REWnK": {
           "type": "pickup_availability",
           "settings": {}
@@ -380,12 +382,12 @@
         "image_9TacA9",
         "badges_mB9A3j",
         "price_gUexFE",
-        "rating_mN8UmV",
         "separator_im6yh3",
         "description_zahxHm",
         "variant_picker_EeQXab",
         "quantity_selector_ehDcED",
         "buy_buttons_CnGpxD",
+        "image_qtgjhJ",
         "pickup_availability_4REWnK"
       ],
       "name": "Featured product",

@@ -478,6 +478,27 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_yRLfrH": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_kdUdyG": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>La livraison est <strong>gratuite</strong>.<br/>Le délai moyen est de <strong>6 à 12 jours</strong>, selon le volume des commandes et votre localisation.</p>"
+          }
+        },
+        "item_AfnnLP": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -501,6 +522,9 @@
         }
       },
       "block_order": [
+        "item_yRLfrH",
+        "item_kdUdyG",
+        "item_AfnnLP",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2"

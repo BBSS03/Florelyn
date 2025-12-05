@@ -33,7 +33,7 @@
         "mobile_image": "shopify://shop_images/1_8aaac218-baa0-4e9d-be1f-4a4ab263cff7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#faf7f3",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }

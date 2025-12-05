@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_k9APJh": {
+          "type": "message",
+          "settings": {
+            "text": "Offre limitée : moins 50 %",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "message_k9APJh",
         "message"
       ],
       "settings": {

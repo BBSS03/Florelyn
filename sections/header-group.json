@@ -81,6 +81,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/FLORELYN_3028309d-5734-4c8b-bb33-28d312dadc9e.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

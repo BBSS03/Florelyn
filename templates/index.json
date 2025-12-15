@@ -184,32 +184,6 @@
     "multi_column_WfQwwb": {
       "type": "multi-column",
       "blocks": {
-        "item_FrhrK4": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 1-1.mp4",
-            "column_size": "3",
-            "title": "Laura Q.",
-            "heading_tag": "h4",
-            "content": "<p>Je l’utilise chaque matin et c’est devenu mon petit rituel bien-être. Elle dégonfle mon visage en quelques minutes et donne vraiment un boost de circulation. Le massage est hyper agréable.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_r9A3Mq": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video 6-6.mp4",
-            "column_size": "3",
-            "title": "Élise P.",
-            "heading_tag": "h4",
-            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_UhxweN": {
           "type": "item",
           "settings": {
@@ -249,6 +223,32 @@
             "link_style": "link"
           }
         },
+        "item_FrhrK4": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 1-1.mp4",
+            "column_size": "3",
+            "title": "Laura Q.",
+            "heading_tag": "h4",
+            "content": "<p>Je l’utilise chaque matin et c’est devenu mon petit rituel bien-être. Elle dégonfle mon visage en quelques minutes et donne vraiment un boost de circulation. Le massage est hyper agréable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_r9A3Mq": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video 6-6.mp4",
+            "column_size": "3",
+            "title": "Élise P.",
+            "heading_tag": "h4",
+            "content": "<p>Cette petite brosse est incroyable ! Après le brossage, mon visage est tellement frais et vivifié. Elle glisse parfaitement sur chaque zone du visage et se tient super bien en main.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_b7q6Jq": {
           "type": "item",
           "settings": {
@@ -264,11 +264,11 @@
         }
       },
       "block_order": [
-        "item_FrhrK4",
-        "item_r9A3Mq",
         "item_UhxweN",
         "item_VhjwDa",
         "item_MmmnjV",
+        "item_FrhrK4",
+        "item_r9A3Mq",
         "item_b7q6Jq"
       ],
       "name": "Multi-column",

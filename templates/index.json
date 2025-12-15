@@ -181,22 +181,6 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_rhTkbm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/F_L_O_R_E_L_Y_N.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_6qGCPt": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -656,7 +640,6 @@
     "image_with_text_overlay_TwLqw9",
     "rich_text_LqTxEQ",
     "image_with_text_overlay_ARfdiL",
-    "image_with_text_overlay_rhTkbm",
     "image_with_text_overlay_6qGCPt",
     "multi_column_WfQwwb",
     "featured_product_AQ3cxF",

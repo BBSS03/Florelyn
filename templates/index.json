@@ -345,6 +345,12 @@
             "payment_button_text_color": ""
           }
         },
+        "text_j8nqDH": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>Plus de moyens de paiement</strong></h4>"
+          }
+        },
         "image_FiMj94": {
           "type": "image",
           "settings": {
@@ -406,6 +412,7 @@
         "rapi_rapi_bundle_3qbq93",
         "image_qtgjhJ",
         "buy_buttons_CnGpxD",
+        "text_j8nqDH",
         "image_FiMj94",
         "image_4mQtX4",
         "badges_mB9A3j",

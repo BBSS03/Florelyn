@@ -353,6 +353,14 @@
             "max_width": 400
           }
         },
+        "image_WxVf7h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Trust_refund.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "image_4mQtX4": {
           "type": "image",
           "settings": {
@@ -407,6 +415,7 @@
         "image_qtgjhJ",
         "buy_buttons_CnGpxD",
         "image_FiMj94",
+        "image_WxVf7h",
         "image_4mQtX4",
         "badges_mB9A3j",
         "separator_im6yh3",

@@ -41,13 +41,21 @@
             "text": "Paiement 100 % sécurisé",
             "url": ""
           }
+        },
+        "message_wwpxka": {
+          "type": "message",
+          "settings": {
+            "text": "Garantie 30 jours",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_bqHbEq",
         "message_gPHaLR",
         "message_k9APJh",
-        "message"
+        "message",
+        "message_wwpxka"
       ],
       "settings": {
         "enable_sticky": false,

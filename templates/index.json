@@ -227,7 +227,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 4,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -412,8 +412,8 @@
         "image_WxVf7h": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Trust_refund.png",
-            "alignment": "start",
+            "image": "shopify://shop_images/10.png",
+            "alignment": "center",
             "max_width": 500
           }
         },
